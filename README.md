@@ -18,3 +18,6 @@ import json
 Logo.png needs to be set in the correct directory before use.
 
 ![image](https://github.com/rahulkumarmmmut/PasswordManager/assets/87722928/8f25630f-8625-4d44-a048-325e3d96dd94)
+
+Resources:
+https://www.udemy.com/share/103J8C3@ZE4Y15bIueQSvZMBV_YhJyohvb53Q7Q0585TR3XO7ZI8edrleHB_l4EBina1GabX/
