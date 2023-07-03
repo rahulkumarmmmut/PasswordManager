@@ -2,25 +2,5 @@
     "apple": {
         "email": "rahulk2903@gmail.com",
         "password": "apple"
-    },
-    "a": {
-        "email": "rahulk2903@gmail.com",
-        "password": "a"
-    },
-    "twitter": {
-        "email": "rahulk2903@gmail.com",
-        "password": "a"
-    },
-    "qqa": {
-        "email": "rahulk2903@gmail.com",
-        "password": ""
-    },
-    "fb": {
-        "email": "rahulk2903@gmail.com",
-        "password": ""
-    },
-    "bsd": {
-        "email": "rahulk2903@gmail.com",
-        "password": ""
     }
 }
